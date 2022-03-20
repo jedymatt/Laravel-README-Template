@@ -2,6 +2,12 @@
 
 Application description
 
+![Alt text](https://via.placeholder.com/1024x768?text=Image+Here)
+
+## Prerequisites
+
+* Php 8.0.2 or up
+* {Items here}
 ## Run Locally
 
 Clone the repository and go to {application directory} directory
@@ -19,6 +25,14 @@ cp .env.example .env
 Note: If you are using laravel sail, replace `.env.example` to `.env.sail` instead.
 
 Then, configure the .env file according to your use case.
+
+Install the dependencies and then compile the assets
+```shell
+composer install
+
+npm install
+npm run dev
+```
 
 Populate the tables and the data to the database
 ```shell
