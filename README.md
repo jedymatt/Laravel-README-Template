@@ -1,6 +1,6 @@
 # Application Name
 
-![Alt text](https://via.placeholder.com/1024x768?text=Optional-Image+Here)
+![Alt text](https://via.placeholder.com/1024x768?text=Optional+Image+Here)
 
 { Optional, Insert badges here}
 
