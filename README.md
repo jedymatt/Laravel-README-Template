@@ -22,8 +22,6 @@ Generate .env file
 cp .env.example .env
 ```
 
-Note: If you are using laravel sail, replace `.env.example` to `.env.sail` instead.
-
 Then, configure the .env file according to your use case.
 
 Install the dependencies and then compile the assets
