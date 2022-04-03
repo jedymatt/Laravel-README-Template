@@ -1,8 +1,10 @@
 # Application Name
 
-Application description
+![Alt text](https://via.placeholder.com/1024x768?text=Optional-Image+Here)
 
-![Alt text](https://via.placeholder.com/1024x768?text=Image+Here)
+{ Optional, Insert badges here}
+
+Application description
 
 ## Prerequisites
 
