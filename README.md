@@ -8,8 +8,10 @@ Application description
 
 ## Prerequisites
 
-* Php 8.0.2 or up
-* {Items here}
+* XAMMP or Docker
+* Node.js
+* composer
+
 ## Run Locally
 
 Clone the repository and go to {application directory} directory
@@ -34,9 +36,14 @@ npm install
 npm run dev
 ```
 
-Populate the tables and the data to the database
+Populate the tables to the database
 ```shell
-php artisan migrate --seed
+php artisan migrate
+```
+
+Optional: Seed data to the dabase
+```shell
+php aritsan db:seed
 ```
 
 Generate app key
@@ -48,4 +55,5 @@ Run the application
 ```shell
 php artisan serve
 ```
+
 Finally, visit http://localhost:8000 to view the site.
